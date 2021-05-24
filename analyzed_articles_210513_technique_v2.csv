@@ -1,0 +1,350 @@
+basic_technique;specific_technique
+Markov Decision Process;Markov Decision Process
+Deep Learning;Convolutional Neural Network
+Markov Decision Process;Markov Decision Process
+;
+Neighborhood;K-nearest Neighbor
+Kernel;Support Vector Machine
+Kernel;Support Vector Machine
+;
+;
+Deep Learning;Artificial Neural Network
+Deep Learning;Convolutional Neural Network
+Tree;Extreme Gradient Boosting
+;
+Deep Learning;Artificial Neural Network
+Fuzzy;Pythagorean Fuzzy Set AHP
+;Pythagorean Fuzzy Set TOPSIS
+Tree;Decision Tree
+;
+Kernel;Linear Discriminant Analysis
+Kernel;Support Vector Machine
+Neighborhood;K-nearest Neighbor
+Tree;Decision Tree
+Tree;Random Forest
+Kernel;Gaussian Mixture Model
+Tree;Adaptive Boosting
+Markov Decision Process;Q-learning
+;
+;
+;
+Neural Network;Feed-forward Neural Network
+;
+Deep Learning;Artificial Neural Network
+Fuzzy;Fuzzy
+Time Series Classification;Word Extraction for Time Series Classification
+;
+Neural Network;Recurrent Neural Network
+;
+Deep Learning;Deep Neural Network
+Regression;Gaussian Process Regression
+Fuzzy;Intuitionisc Fuzzy Set AHP
+Fuzzy;Intuitionisc Fuzzy Set TOPSIS
+Neural Network;Neural Network
+;
+;
+Fuzzy;Fuzzy C-means
+Neural Network;Neural Network
+Meta-heuristic;Genetic Algorithm
+Deep Learning;Artificial Neural Network
+;
+Neural Network;Back-propagation Neural Network
+Regression;Gaussian Process Regression
+Tree;Random Forest
+Deep Learning;Multi-layer Perceptron
+Kernel;Support Vector Machine
+Neighborhood;K-nearest Neighbor
+Deep Learning;Artificial Neural Network
+Neural Network;Recurrent Neural Network
+Kernel;Support Vector Machine
+Neighborhood;K-nearest Neighbor
+Meta-heuristic;Spotted Hyena Optimization
+Meta-heuristic;Whale Optimization Algorithm
+Kernel;Least Square Support Vector Machine
+Deep Learning;Interval Adjoint Significance Analysis
+Deep Learning;Artificial Neural Network
+Kernel;Least Square Support Vector Machine
+Deep Learning;Artificial Neural Network
+Regression;Multiple Linear Regression
+Tree;Random Forest
+Meta-heuristic;Tabu Search
+Meta-heuristic;Genetic Algorithm
+Deep Learning;Multi-layer Perceptron
+Kernel;Support Vector Machine
+Neural Network;Long Short-term Memory
+Tree;Random Forest
+Regression;Linear Regression
+Deep Learning;Multi-layer Perceptron
+Neighborhood;K-nearest Neighbor
+Neural Network;Long Short-term Memory
+Deep Learning;Multi-layer Perceptron
+Tree;Random Forest
+Tree;Extra Tree
+Tree;Gradient Boosting
+Tree;Adaptive Boosting
+Tree;Extreme Gradient Boosting
+Deep Learning;Deep Neural Network
+;
+;
+Deep Learning;Multi-layer Perceptron
+Neural Network;Back-propagation Neural Network
+Time Series Classification;Real Time-Slope Statistic Profile
+Kernel;Multiclass Support Vector Machine
+Kernel;Support Vector Machine
+Deep Learning;Autoencoder
+;
+;
+Neural Network;Feed-forward Neural Network
+;
+;
+Collision Detection;Collision Detection Algorithm
+;
+Deep Learning;Artificial Neural Network
+Meta-heuristic;Genetic Algorithm
+;
+Deep Learning;Autoencoder
+Meta-heuristic;Genetic Algorithm
+;
+;
+Multi-agent Auto Communication;Multi-agent Auto Communication Algorithm
+;
+Meta-heuristic;Genetic Algorithm
+Deep Learning;Artificial Neural Network
+Kernel;Gaussian Support Vector Machine
+Tree;Random Forest
+Neighborhood;K-nearest Neighbor
+Kernel;Linear Discriminant Analysis
+Deep Learning;Convolutional Neural Network
+;
+Deep Learning;Deep Neural Network
+Stochastic Block Model;Stochastic Block Model
+Neural Network;Deep Walk
+Neural Network;Node2Vec
+Meta-heuristic;Heuristically Operated Placement Evolution
+Kernel;Support Vector Machine
+Tree;Decision Tree
+Tree;Random Forest
+Regression;Logistic Regression
+Neighborhood;K-nearest Neighbor
+Deep Learning;Convolutional Neural Network
+Deep Learning;Convolutional Neural Network
+Deep Learning;Artificial Neural Network
+;
+;
+;
+Deep Learning;Convolutional Neural Network
+;
+;
+Markov Decision Process;Q-learning
+Markov Decision Process;State Action Reward State Action
+Deep Learning;Deep Q Network
+Neighborhood;K-nearest Neighbor
+Deep Learning;Multi-layer Perceptron
+Kernel;Support Vector Machine
+Tree;Random Forest
+Deep Learning;Convolutional Neural Network
+;
+;
+;
+Tree;Gradient Boosting
+Tree;Random Forest
+Tree;Extreme Gradient Boosting
+;
+;
+;
+Markov Decision Process;Q-learning
+;
+Deep Learning;Artificial Neural Network
+Kernel;Support Vector Machine
+Neural Network;Long Short-term Memory
+Deep Learning;Convolutional Neural Network
+Regression;Linear Regression
+Tree;Random Forest
+K-means Clustering;K-means
+Deep Learning;Autoencoder
+Monte Carlo Simulation;Monte Carlo Simulation
+;
+Tree;Random Forest
+Tree;Decision Tree of CHAID
+Tree;Decision Tree of 5.0
+Kernel;Support Vector Machine
+Regression;Multiple Linear Regression
+Regression;Principal Component Regression
+Regression;Partial Least Squares Regression
+Neural Network;NARX Neural Network
+Markov Decision Process;Markov Decision Process
+;
+;
+;
+Kernel;Gaussian Mixture Model
+Gradient Descent;Mini-batch Gradient Descent
+;
+Regression;Principal Component Regression
+Tree;Random Forest
+Tree;Extreme Gradient Boosting
+Meta-heuristic;Genetic Algorithm
+Fuzzy;Fuzzy
+Deep Learning;Artificial Neural Network
+Meta-heuristic;Genetic Algorithm
+Tree;Random Forest
+Neural Network;Long Short-term Memory
+Bayesian Network;Bayesian Filter
+;
+Kernel;Support Vector Machine
+Tree;Decision Tree
+Tree;Random Forest
+Deep Learning;Convolutional Neural Network
+Kernel;Principal Component Analysis
+Neighborhood;K-nearest Neighbor
+Neural Network;Feed-forward Neural Network
+Kernel;Linear Discriminant Analysis
+Regression;Partial Least Squares Regression
+Kernel;Soft Independent Modelling of Class Analogy
+Tree;Gradient Boosting
+Regression;Logistic Regression
+Kernel;Support Vector Machine
+Deep Learning;Convolutional Neural Network
+;
+;
+;
+Deep Learning;Random Neural Network
+Gradient Descent;Gradient Descent
+Tree;Decision Tree
+Kernel;Support Vector Machine
+Deep Learning;Artificial Neural Network
+Neural Network;Feed-forward Neural Network
+;
+;
+K-means Clustering;K-means
+Tree;Random Forest
+Regression;Logistic Regression
+Neural Network;Long Short-term Memory
+Deep Learning;Autoencoder
+;
+;
+;
+Deep Learning;Deep Neural Network
+Tree;Random Forest
+Deep Learning;Deep Q Network
+Deep Learning;Deep Neural Network
+;
+Deep Learning;Artificial Neural Network
+Kernel;Gaussian Mixture Model
+Tree;Gradient Boosting
+Tree;Extra Tree
+Tree;Extreme Gradient Boosting
+Regression;Logistic Regression
+Neighborhood;K-nearest Neighbor
+Kernel;Support Vector Machine
+Kernel;Support Vector Machine
+Deep Learning;Convolutional Neural Network
+;
+Time Series Classification;Dynamic Time Warping
+Hierarchical Clustering;Agglomerative Hierarchical Clustering
+;
+Kernel;kernel principal component analysis
+Tree;Random Forest
+Kernel;Support Vector Machine
+Neighborhood;K-nearest Neighbor
+Deep Learning;Deep Belief Network
+;
+;
+;
+;
+Deep Learning;Convolutional Neural Network
+;
+;
+;
+Deep Learning;Convolutional Neural Network
+Neural Network;Recurrent Neural Network
+Neural Network;Radial Basis Function Neural Network
+;
+;
+Fuzzy;Fuzzy
+;
+Neural Network;Recurrent Neural Network
+Neural Network;Bidirecional GRU
+Regression;Support Vector Regression
+Neural Network;Long Short-term Memory
+Deep Learning;Convolutional Neural Network
+Neural Network;Recurrent Neural Network
+Deep Learning;Convolutional Neural Network
+;
+Tree;Decision Tree C4.5 
+Neural Network;Neural Network
+Naive Bayes;Naive Bayes
+Tree;Random Forest
+Markov Decision Process;Q-learning
+;
+;
+Deep Learning;Deep Neural Network
+;
+Deep Learning;Multi-layer Perceptron
+Tree;Random Forest
+Tree;Gradient Boosting
+Deep Learning;Artificial Neural Network
+Kernel;Adaptive Support Vector Machine
+Tree;Decision Table
+Tree;Random Forest
+Tree;Decision Tree
+Neighborhood;K-nearest Neighbor
+Deep Learning;Multi-layer Perceptron
+Regression;Logistic Regression
+Bayesian Network;Bayesian Network
+Meta-heuristic;Ant Colony
+Markov Decision Process;Q-learning
+;
+Deep Learning;Multi-layer Perceptron
+Deep Learning;Bayesian Regularized ANN
+Kernel;Support Vector Machine
+Deep Learning;Deep Neural Network
+Markov Decision Process;Hidden Markov Model
+;
+Deep Learning;Artificial Neural Network
+;
+Kernel;Support Vector Regression
+Deep Learning;Artificial Neural Network
+Deep Learning;Autoencoder
+Kernel;Support Vector Machine
+Deep Learning;Convolutional Neural Network
+Neural Network;Feed-forward Neural Network
+Deep Learning;Convolutional Neural Network
+Tree;Random Forest
+Regression;Regression Tree
+Neural Network;Bidirecional GRU
+Neural Network;Recurrent Neural Network
+Deep Learning;Convolutional Neural Network
+;
+;
+;
+;
+;
+Monte Carlo Simulation;Monte Carlo Simulation
+Gamma Distribution;Gamma Distribution
+;
+Deep Learning;Convolutional Neural Network
+Neural Network;Recurrent Neural Network
+Deep Learning;Autoencoder
+K-means Clustering;K-means
+Neural Network;Feed-forward Neural Network
+Kernel;Support Vector Machine
+;Random Forest
+Brute Force Search;Brute Force Search
+Meta-heuristic;Memetic Algorithm
+Meta-heuristic;Particle Swarm Optimization
+Tree;Random Forest
+;
+;
+;
+;
+Cross-association;Fully Automatic Cross-association
+Markov Decision Process;Markov Decision Process
+;
+Neighborhood;Pearson Correlation Coefficient
+Kernel;Gaussian Kernel
+Neural Network;Back-propagation Neural Network
+;
+Neural Network;Back-propagation Neural Network
+;
+;
+;
