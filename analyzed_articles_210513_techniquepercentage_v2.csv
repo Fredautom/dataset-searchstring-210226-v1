@@ -1,0 +1,23 @@
+basic_technique;occurrences;percent_of_documents
+Deep Learning;64;48,12
+Tree;46;34,59
+Kernel;36;27,07
+Neural Network;32;24,06
+Regression;17;12,78
+Meta-heuristic;14;10,53
+Neighborhood;13;9,77
+Markov Decision Process;11;8,27
+Fuzzy;7;5,26
+Time Series Classification;3;2,26
+K-means Clustering;3;2,26
+Bayesian Network;2;1,50
+Gradient Descent;2;1,50
+Monte Carlo Simulation;2;1,50
+Brute Force Search;1;0,75
+Stochastic Block Model;1;0,75
+Cross-association;1;0,75
+Naive Bayes;1;0,75
+Multi-agent Auto Communication;1;0,75
+Collision Detection;1;0,75
+Gamma Distribution;1;0,75
+Hierarchical Clustering;1;0,75
